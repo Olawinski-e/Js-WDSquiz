@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "browser-sync": "^2.26.12",
+    "gulp": "^4.0.2"
+  },
+  "name": "js-quiz",
+  "description": "",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olawinski-e/Js-WDSquiz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olawinski-e/Js-WDSquiz/issues"
+  },
+  "homepage": "https://github.com/Olawinski-e/Js-WDSquiz#readme"
+}
